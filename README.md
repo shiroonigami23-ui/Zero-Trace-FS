@@ -43,4 +43,4 @@ Contributions are welcome! Please feel free to open issues or pull requests.
 
 ## License
 
-[Specify your license here, e.g., MIT, Apache 2.0]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
