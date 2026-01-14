@@ -41,6 +41,11 @@ To run this project in Google Colab:
 
 Contributions are welcome! Please feel free to open issues or pull requests.
 
+
+## Changelog
+
+See the [CHANGELOG](CHANGELOG.md) for a history of changes.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
