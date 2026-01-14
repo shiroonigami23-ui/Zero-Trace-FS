@@ -1,0 +1,5 @@
+.config/
+drive/
+sample_data/
+vault.bin
+*.ipynb
