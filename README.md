@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/hero.png" alt="Zero-Trace FS — Phantom Vault" width="100%">
+
 # 👻 Zero-Trace FS — Phantom Vault
 
 ### A deniable encrypted vault where stored data is indistinguishable from random noise
