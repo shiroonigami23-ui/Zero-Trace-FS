@@ -1,0 +1,5 @@
+{
+  "name": "Zero-Trace FS \u2014 Phantom Vault",
+  "image": "mcr.microsoft.com/devcontainers/python:1-3.11",
+  "postCreateCommand": "pip install cryptography"
+}
