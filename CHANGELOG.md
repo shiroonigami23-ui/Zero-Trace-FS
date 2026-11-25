@@ -1,6 +1,6 @@
 
 
-## [Unreleased] - 2026-11-13
+## [Unreleased] - 2026-11-15
 
 ### Documentation
 - Rewrote README with badges, preview, feature & tech-stack tables, architecture diagram and roadmap
