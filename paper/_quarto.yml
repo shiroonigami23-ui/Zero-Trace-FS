@@ -1,0 +1,11 @@
+project:
+  type: manuscript
+  render:
+    - index.qmd
+
+format:
+  html:
+    toc: true
+  pdf:
+    documentclass: article
+    pdf-engine: pdflatex
